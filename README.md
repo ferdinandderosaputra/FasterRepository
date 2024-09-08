@@ -27,10 +27,10 @@ This script is used to speed up updates and upgrades to the Repository Your OS
 
 2. Open the Directory
 
-   ```cd FasterKaliRepository```
+   ```cd FasterRepository```
 
 3. Run the bash script
 
-   ```sudo python3 fkr.py```
+   ```sudo python3 fr.py```
 
 
