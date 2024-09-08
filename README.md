@@ -2,6 +2,9 @@
 
 This script is used to speed up updates and upgrades to the Repository Your OS
 
+## Announcement
+- In this update I added update&&upgrade faster repository for Ubuntu and Debian
+
 ## Features
 
 - Auto Detect Your Os Version
@@ -30,5 +33,4 @@ This script is used to speed up updates and upgrades to the Repository Your OS
 
    ```sudo python3 fkr.py```
 
-## Announcement
--In this update I added update&&upgrade faster repository for Ubuntu and Debian
+
