@@ -1,4 +1,4 @@
-# Faster-Kali-Repository
+# Faster-Repository
 
 This script is used to speed up updates and upgrades to the Kali Linux Repository
 
@@ -29,3 +29,5 @@ This script is used to speed up updates and upgrades to the Kali Linux Repositor
 
    ```sudo python3 fkr.py```
 
+## Announcement
+-In this update I added update&&upgrade faster repository for Ubuntu and Debian
