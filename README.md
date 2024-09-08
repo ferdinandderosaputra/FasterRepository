@@ -19,7 +19,7 @@ This script is used to speed up updates and upgrades to the Kali Linux Repositor
 
 1. Clone the repository to your local machine:
 
-   ```git clone https://github.com/frozzipies/FasterKaliRepository/```
+   ```git clone https://github.com/ferdinandderosaputra/FasterKaliRepository/```
 
 2. Open the Directory
 
@@ -27,5 +27,5 @@ This script is used to speed up updates and upgrades to the Kali Linux Repositor
 
 3. Run the bash script
 
-   ```sudo python3 FKR.py```
+   ```sudo python3 fkr.py```
 
