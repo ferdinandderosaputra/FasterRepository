@@ -1,10 +1,11 @@
 # Faster-Repository
 
-This script is used to speed up updates and upgrades to the Kali Linux Repository
+This script is used to speed up updates and upgrades to the Repository Your OS
 
 ## Features
 
-- Speed up your Kali Repository
+- Auto Detect Your Os Version
+- Speed up your Os Repository
 - Add Kali Repository (for non-Kali distro)
 - Update & Upgrade Repository
 - Return to Old Repository
