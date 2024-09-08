@@ -23,6 +23,8 @@ def get_distro():
         return 'ubuntu'
     elif 'debian' in dist_name:
         return 'debian'
+    elif 'kali' in dist_name:
+        return 'kali'
     else:
         return 'unknown'
 
@@ -44,6 +46,11 @@ def handle_repo_for_distro(distro, action):
             "deb http://deb.debian.org/debian/ $(lsb_release -cs) main",
             "deb http://deb.debian.org/debian/ $(lsb_release -cs)-updates main",
             "deb http://security.debian.org/ $(lsb_release -cs)-security main"
+        ],
+        'kali': [
+            "deb https://mirrors.ocf.berkeley.edu/kali/ kali-rolling main contrib non-free",
+            "# For source package access, uncomment the following line",
+            "# deb-src https://mirrors.ocf.berkeley.edu/kali/ kali-rolling main contrib non-free"
         ]
     }
 
