@@ -29,8 +29,9 @@ This script is used to speed up updates and upgrades to the Repository Your OS
 
    ```cd FasterRepository```
 
-3. Run the bash script
+3. Run the python script
 
    ```sudo python3 fr.py```
 
-
+## View Count Repository
+![](https://komarev.com/ghpvc/?username=ferdinandderosaputra&label=Views)
