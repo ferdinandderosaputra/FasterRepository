@@ -4,7 +4,7 @@ This script is used to speed up updates and upgrades to the Repository Your OS
 
 ## Announcement
 - In this update I added update&&upgrade faster repository for Ubuntu and Debian
-
+- Don't forget to install the distro/platform module
 ## Features
 
 - Auto Detect Your Os Version
